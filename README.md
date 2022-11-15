@@ -1,7 +1,6 @@
 - Hi, I’m @erikwehrmann
-- I’m interested nothing specific yet
-- I’m currently learning JavaScript and Python basics
-- How to reach me erik.wehrmann@gmail.com 
+- I’m interested in nothing specific yet
+- I’m currently learning at Lighthouse Labs
 
 <!---
 erikwehrmann/erikwehrmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
